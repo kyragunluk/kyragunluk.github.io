@@ -16,7 +16,7 @@ My mentor is Dr. Ruta Mehta, an Assistant Professor in the Department of Compute
 
 ## About My Project
 
-This summer, Professor Mehta and myself will be exploring different notions of fairness, such as Envy-freeness, Proportionality, and MMS. With these we will explore which measurements can be guaranteed in problems of distributing indivisible items to a collection of agents who each give value to the items, and if we can find approximation factors and algorithms for those that can be.
+This summer, Professor Mehta and I will be exploring different notions of fairness, such as Envy-freeness, Proportionality, and MMS. With these we will explore which measurements can be guaranteed in problems of distributing indivisible items to a collection of agents who each give value to the items, and if we can find approximation factors and algorithms for those that can be.
 
 [My Final Report](files/finalreport.pdf)
 
