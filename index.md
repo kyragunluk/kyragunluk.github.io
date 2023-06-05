@@ -8,11 +8,11 @@ title: Summer 2020 DREU Project Site
 
 ## About Me
 
-I am a rising Senior at Cornell University, majoring in Computer Science and minoring in Mathematics, Operations Research, and Game Design. I am particularly interested in Algorithms and Theory in Computer Science. 
+I am a rising Senior at Cornell University, majoring in Computer Science and minoring in Mathematics, Operations Research, and Game Design. I am graduating in the spring of 2024, and plan to continue to graduate school. I am particularly interested in Algorithms and Theory in Computer Science. My emails are kg556@cornell.edu and kyra.gunluk@gmail.com
 
 ## About My Mentor
 
-My mentor is Dr. Ruta Mehta, an Assistant Professor at the University of Illinois Urbana-Champaign. She also has a research interest in Theoretical Computer Science.
+My mentor is Dr. Ruta Mehta, an Assistant Professor in the Department of Computer Science at the University of Illinois Urbana-Champaign. She also has a research interest in Theoretical Computer Science. Her website can be found at https://rutamehta.cs.illinois.edu/
 
 ## About My Project
 
