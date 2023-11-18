@@ -2,17 +2,17 @@
 layout: default
 ---
 
-<div class="portfolios">
-  {% for portfolio in site.portfolios %}
-    <article class="portfolio">
+<div class="subsecs">
+  {% for subsec in site.subsecs %}
+    <article class="subsec">
 
-      <h1><a href="{{ site.baseurl }}{{ portfolio.url }}">{{ portfolio.title }}</a></h1>
+      <h1><a href="{{ site.baseurl }}{{ subsec.url }}">{{ subsec.title }}</a></h1>
 
       <div class="entry">
-        {{ portfolio.excerpt }}
+        {{ subsec.excerpt }}
       </div>
 
-      <a href="{{ site.baseurl }}{{ portfolio.url }}" class="read-more">Read More</a>
+      <a href="{{ site.baseurl }}{{ subsec.url }}" class="read-more">Read More</a>
     </article>
   {% endfor %}
 </div>
