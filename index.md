@@ -22,4 +22,4 @@ This summer, Professor Mehta and I will be exploring different notions of fairne
 
 ## My Art Portfolio
 
-[My Art Portfolio](blog.html)
+[My Art Portfolio](portfolio.html)
