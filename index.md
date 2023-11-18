@@ -20,6 +20,6 @@ This summer, Professor Mehta and I will be exploring different notions of fairne
 
 [My Final Report](files/DREU_Final_Paper.pdf)
 
-## My Blog
+## My Art Portfolio
 
-[My Blog](blog.html)
+[My Art Portfolio](blog.html)
