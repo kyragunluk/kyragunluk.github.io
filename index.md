@@ -18,7 +18,7 @@ My mentor is Dr. Ruta Mehta, an Assistant Professor in the Department of Compute
 
 This summer, Professor Mehta and I will be exploring different notions of fairness, such as Maximin Share and Any Price Share. With these we will explore which measurements can be guaranteed in problems of distributing indivisible items to a collection of agents who each give value to the items, and if we can find approximation factors and algorithms for those that can be.
 
-[My CV](files/DREU_Final_Paper.pdf)
+[My CV](files/resume.pdf)
 
 ## My Art Portfolio
 
