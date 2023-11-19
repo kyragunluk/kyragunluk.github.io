@@ -12,7 +12,8 @@ I am a Senior at Cornell University, majoring in Computer Science and minoring i
 
 ## Research Interests
 [Test Link](https://www.linkedin.com/in/kyra-gunluk-097704198/){:target="_blank"}{:rel="noopener noreferrer"}
-[Test Link 2]( {% https://www.linkedin.com/in/kyra-gunluk-097704198/ %} )
+
+[Test Link 2]( {https://www.linkedin.com/in/kyra-gunluk-097704198/} )
 
 [My CV](files/resume.pdf)
 
