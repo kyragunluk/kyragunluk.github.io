@@ -17,7 +17,45 @@ title: Photography
 
 
 
-![](https://kyragunluk.github.io/images/port11.png)
+![](https://kyragunluk.github.io/images/printable5.png)
+
+
+
+
+
+
+
+
+![](https://kyragunluk.github.io/images/printable3.png)
+
+
+
+
+
+
+
+
+![](https://kyragunluk.github.io/images/printable1.png)
+![](https://kyragunluk.github.io/images/printable16.png)
+
+
+
+
+
+
+
+
+![](https://kyragunluk.github.io/images/printable8.png)
+![](https://kyragunluk.github.io/images/printable20.png)
+
+
+
+
+
+
+
+
+![](https://kyragunluk.github.io/images/printable18.png)
 
 
 
