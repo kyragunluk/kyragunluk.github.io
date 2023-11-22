@@ -46,7 +46,7 @@ title: Photography
 
 
 ![](https://kyragunluk.github.io/images/print8.png)
-![](https://kyragunluk.github.io/images/print20.png)
+![](https://kyragunluk.github.io/images/print10.png)
 
 
 
