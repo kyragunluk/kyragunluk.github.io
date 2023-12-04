@@ -14,7 +14,7 @@ I plan to continue to graduate school and pursue a PhD in Computer Science. I am
 
 In the Fall of 2022, I joined aresearch project with professor Eshan Chattopadyay on Fourier Bounds for Parity Decision Trees (PTDs). The goal of this project is to improve current bounds on the complexity of Fourier expansions of boolean functions on binary strings. 
 
-In the Summer of 2023, I was accepted to the Distributed REU program with the Computing Research Association. I received funding to spend 10 weeks at the University of Illinois Urbana-Champaign and work with Professor Ruta Mehta on research in Algorithmic Game Theory. We worked on the problem of Fair Allocation and explored different measurements of fairness in different problem settings. We wrote a paper on our results, which can be found [here](files/ApproximatingMMSandAPS.pd.pdf)
+In the Summer of 2023, I was accepted to the Distributed REU program with the Computing Research Association. I received funding to spend 10 weeks at the University of Illinois Urbana-Champaign and work with Professor Ruta Mehta on research in Algorithmic Game Theory. We worked on the problem of Fair Allocation and explored different measurements of fairness in different problem settings.You cann find more information about our results through our [paper](files/ApproximatingMMSandAPS.pdf) and [poster](files/Fairness_Poster.pdf)b
 
 You can find more information about my experiences in my 
 
