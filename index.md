@@ -16,6 +16,8 @@ In the Fall of 2022, I joined aresearch project with professor Eshan Chattopadya
 
 In the Summer of 2023, I was accepted to the Distributed REU program with the Computing Research Association. I received funding to spend 10 weeks at the University of Illinois Urbana-Champaign and work with Professor Ruta Mehta on research in Algorithmic Game Theory. We worked on the problem of Fair Allocation and explored different measurements of fairness in different problem settings. 
 
+You can find more information about my experiences in my [CV](files/resumex.pdf)
+
 ## Research Interests
 I am interested in Theoretical Computer Science and Optimization. I have worked on research in Algorithmic Game Theory, and have enjoyed studying problems in Optimization, Combinatorics, and Aproximation Algorithms.
 
