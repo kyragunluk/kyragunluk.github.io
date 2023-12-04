@@ -7,9 +7,6 @@ title: Photography
 ![](https://kyragunluk.github.io/images/port2.png)
 
 
-![](https://kyragunluk.github.io/images/port1.png)
-![](https://kyragunluk.github.io/images/port3.png)
-
 
 
 
