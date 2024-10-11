@@ -13,6 +13,15 @@ title: Paintings
 
 
 
+![](https://kyragunluk.github.io/images/fish_paint.jpg)
+
+
+
+
+
+
+
+
 ![](https://kyragunluk.github.io/images/paint2.jpg)
 
 
