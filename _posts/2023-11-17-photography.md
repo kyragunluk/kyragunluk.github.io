@@ -99,9 +99,10 @@ title: Photography
 
 
 
+![](https://kyragunluk.github.io/images/rocks.png)
+![](https://kyragunluk.github.io/images/tire.png)
+![](https://kyragunluk.github.io/images/calmwater.png)
 
-![](https://kyragunluk.github.io/images/port5.png)
-![](https://kyragunluk.github.io/images/port8.png)
 
 
 
@@ -112,3 +113,13 @@ title: Photography
 
 ![](https://kyragunluk.github.io/images/port6.png)
 ![](https://kyragunluk.github.io/images/port9.png)
+
+
+
+
+
+
+
+
+![](https://kyragunluk.github.io/images/port5.png)
+![](https://kyragunluk.github.io/images/port8.png)
