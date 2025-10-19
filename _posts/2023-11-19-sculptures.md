@@ -2,30 +2,14 @@
 layout: post
 title: Sculptures
 ---
-![](https://kyragunluk.github.io/images/sculp6.png)
-![](https://kyragunluk.github.io/images/sculp4.png)
+<img src="/images/sculp6.png" alt="" style="width:30%;">   <img src="/images/sculp4.png" alt="" style="width:30%;">  <img src="/images/sculp5.png" alt="" style="width:30%;">  <img src="/images/sculp7.png" alt="" style="width:30%;">  
 
-
-![](https://kyragunluk.github.io/images/sculp5.png)
-![](https://kyragunluk.github.io/images/sculp7.jpg)
+<img src="/images/sculp1.png" alt="" style="width:30%;">  
 
 
 
 
 
 
-
-
-
-![](https://kyragunluk.github.io/images/sculp1.png)
-
-
-
-
-
-
-
-
-![](https://kyragunluk.github.io/images/sculp2.png)
-![](https://kyragunluk.github.io/images/sculp3.png)
+<img src="/images/sculp2.png" alt="" style="width:30%;">  <img src="/images/sculp3.png" alt="" style="width:30%;">  
 
