@@ -9,7 +9,7 @@ title: Photography
 
 <img src="/images/print17.png" alt="" style="width:37.75%;">   <img src="/images/print27.png" alt="" style="width:15.75%;">   <img src="/images/print26.png" alt="" style="width:36.5%;"> 
 
-<img src="/images/rhombus.png" alt="" style="width:45%;">   <img src="/images/construction.png" alt="" style="width:45%;">
+<img src="/images/rhombus.png" alt="" style="width:35%;">   <img src="/images/pills.png" alt="" style="width:20%;">   <img src="/images/construction.png" alt="" style="width:35%;">
 
 
 <img src="/images/print16.png" alt="" style="width:30%;">
