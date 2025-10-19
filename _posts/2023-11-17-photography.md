@@ -12,7 +12,13 @@ title: Photography
 <img src="/images/print26.png" alt="" style="width:30%;">
 <img src="/images/print27.png" alt="" style="width:30%;">
 <img src="/images/port4.png" alt="" style="width:30%;">
-<img src="/images/port7.png" alt="" style="width:30%;">
+<img src="/images/port7.png" alt="" style="width:30%;">   <img src="/images/rhombus.png" alt="" style="width:30%;">   <img src="/images/construction.png" alt="" style="width:30%;">
+
+<img src="/images/doors.png" alt="" style="width:30%;">
+<img src="/images/ivy.png" alt="" style="width:30%;">
+<img src="/images/grate.png" alt="" style="width:30%;">
+<img src="/images/cypress.png" alt="" style="width:30%;">
+
 
 <img src="/images/rock.jpg" alt="" style="width:30%;">
 <img src="/images/calmwater.jpg" alt="" style="width:30%;">
