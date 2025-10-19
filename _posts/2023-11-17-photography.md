@@ -14,8 +14,8 @@ title: Photography
 <img src="/images/port4.png" alt="" style="width:30%;">
 <img src="/images/port7.png" alt="" style="width:30%;">
 
-<img src="/images/rocks.png" alt="" style="width:30%;">
-<img src="/images/calmwater.png" alt="" style="width:30%;">
-<img src="/images/tire.png" alt="" style="width:30%;">
+<img src="/images/rock.jpg" alt="" style="width:30%;">
+<img src="/images/calmwater.jpg" alt="" style="width:30%;">
+<img src="/images/tire.jpg" alt="" style="width:30%;">
 
 
