@@ -2,38 +2,9 @@
 layout: post
 title: Paintings
 ---
-<img src="/images/paint1.png" alt="" style="width:30%;">   <img src="/images/fishpaint.jpg" alt="" style="width:60%;">    
-![](https://kyragunluk.github.io/images/paint3.jpg)
+<img src="/images/paint1.png" alt="" style="width:30%;">   <img src="/images/fish_paint.jpg" alt="" style="width:60%;">    
 
-
-
-
-
-
-
-
-
-![](https://kyragunluk.github.io/images/paint2.jpg)
-
-
-
-
-
-
-
-
-
-
-
-
-
-![](https://kyragunluk.github.io/images/paint4.jpg)
-
-
-
-
-
-
+<img src="/images/paint3.jpg" alt="" style="width:30%;">   <img src="/images/paint2.jpg" alt="" style="width:30%;">   <img src="/images/paint4.jpg" alt="" style="width:30%;">  
 
 
 
