@@ -7,9 +7,9 @@ title: Photography
 
 <img src="/images/print3.png" alt="" style="width:33%;">   <img src="/images/print8.png" alt="" style="width:30.5%;">   <img src="/images/print10.png" alt="" style="width:26.5%;">
 
-<img src="/images/print27.png" alt="" style="width:15%;"> <img src="/images/print17.png" alt="" style="width:20%;">  <img src="/images/print26.png" alt="" style="width:20%;"> 
+<img src="/images/print17.png" alt="" style="width:35%;">   <img src="/images/print27.png" alt="" style="width:15%;">   <img src="/images/print26.png" alt="" style="width:35%;"> 
 
-<img src="/images/rhombus.png" alt="" style="width:40%;">   <img src="/images/construction.png" alt="" style="width:40%;">
+<img src="/images/rhombus.png" alt="" style="width:45%;">   <img src="/images/construction.png" alt="" style="width:45%;">
 
 
 <img src="/images/print16.png" alt="" style="width:30%;">
