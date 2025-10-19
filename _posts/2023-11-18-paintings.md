@@ -123,33 +123,7 @@ title: Paintings
 
 
 
-
-
-![](https://kyragunluk.github.io/images/paint11.jpg)
-
-
-
-
-
-
-
-
-
-
-![](https://kyragunluk.github.io/images/paint12.png)
-
-
-
-
-
-
-
-
-
-
-
-![](https://kyragunluk.github.io/images/paint13.png)
-
+<img src="/images/girlpaint.jpg" alt="" style="width:45%;">    <img src="/images/paint11.png" alt="" style="width:15%;">    <img src="/images/paint12.png" alt="" style="width:15%;">    <img src="/images/paint13.png" alt="" style="width:15%;">    
 
 
 
