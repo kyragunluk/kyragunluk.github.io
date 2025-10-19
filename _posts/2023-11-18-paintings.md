@@ -123,7 +123,7 @@ title: Paintings
 
 
 
-<img src="/images/girlpaint.jpg" alt="" style="width:45%;">    <img src="/images/paint11.png" alt="" style="width:15%;">    <img src="/images/paint12.png" alt="" style="width:15%;">    <img src="/images/paint13.png" alt="" style="width:15%;">    
+<img src="/images/girlpaint.jpg" alt="" style="width:36%;">    <img src="/images/paint11.jpg" alt="" style="width:17%;">    <img src="/images/paint12.png" alt="" style="width:17%;">    <img src="/images/paint13.png" alt="" style="width:17%;">    
 
 
 
