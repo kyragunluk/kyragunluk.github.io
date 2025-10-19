@@ -3,7 +3,7 @@ layout: post
 title: Photography
 ---
 
-<img src="/images/flames.jpg" alt="" style="width:30%;"><img src="/images/port2.png" alt="" style="width:30%;">
+<img src="/images/flames.jpg" alt="" style="width:30%;">  <img src="/images/port2.png" alt="" style="width:30%;">
 
 
 
