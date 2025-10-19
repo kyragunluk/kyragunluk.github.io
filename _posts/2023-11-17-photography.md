@@ -5,10 +5,9 @@ title: Photography
 
 <img src="/images/flames.jpg" alt="" style="width:30%;">   <img src="/images/port2.png" alt="" style="width:30%;">   <img src="/images/print5.png" alt="" style="width:30%;">
 
-<img src="/images/print3.png" alt="" style="width:30%;">
+<img src="/images/print3.png" alt="" style="width:30%;">   <img src="/images/print8.png" alt="" style="width:30%;">   <img src="/images/print10.png" alt="" style="width:30%;">
+
 <img src="/images/print16.png" alt="" style="width:30%;">
-<img src="/images/print8.png" alt="" style="width:30%;">
-<img src="/images/print10.png" alt="" style="width:30%;">
 <img src="/images/print17.png" alt="" style="width:30%;">
 <img src="/images/print26.png" alt="" style="width:30%;">
 <img src="/images/print27.png" alt="" style="width:30%;">
