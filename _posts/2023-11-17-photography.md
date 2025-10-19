@@ -20,6 +20,8 @@ title: Photography
 
 <img src="/images/ivy.jpg" alt="" style="width:22.5%;">   <img src="/images/grate.png" alt="" style="width:22.5%;">   <img src="/images/cypress.jpg" alt="" style="width:22.5%;">
 
+<img src="/images/rug.jpg" alt="" style="width:30%;">    <img src="/images/turks.jpg" alt="" style="width:30%;">    <img src="/images/rugs.jpg" alt="" style="width:30%;">    
+
 
 <img src="/images/rock.jpg" alt="" style="width:30%;">
 <img src="/images/calmwater.jpg" alt="" style="width:30%;">
