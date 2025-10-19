@@ -4,7 +4,7 @@ title: Paintings
 ---
 <img src="/images/paint1.png" alt="" style="width:27.5%;">   <img src="/images/fish_paint.jpg" alt="" style="width:62.5%;">    
 
-<img src="/images/paint3.jpg" alt="" style="width:35%;">   <img src="/images/paint5.jpg" alt="" style="width:32%;">   <img src="/images/paint2.jpg" alt="" style="width:23%;">  
+<img src="/images/paint3.jpg" alt="" style="width:35%;">   <img src="/images/paint5.jpg" alt="" style="width:28%;">   <img src="/images/paint2.jpg" alt="" style="width:27%;">  
 
 
 
