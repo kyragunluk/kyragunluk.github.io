@@ -4,7 +4,7 @@ title: Photography
 ---
 
 ![](https://kyragunluk.github.io/images/flames.jpg){: width="100px" }
-![](https://kyragunluk.github.io/images/port2.png)
+![](https://kyragunluk.github.io/images/port2.png){: width="100px" }
 
 
 
@@ -14,7 +14,7 @@ title: Photography
 
 
 
-![](https://kyragunluk.github.io/images/print5.png)
+![](https://kyragunluk.github.io/images/print5.png){: width="100px" }
 
 
 
@@ -23,7 +23,7 @@ title: Photography
 
 
 
-![](https://kyragunluk.github.io/images/print3.png)
+![](https://kyragunluk.github.io/images/print3.png){: width="100px" }
 
 
 
@@ -32,7 +32,7 @@ title: Photography
 
 
 
-![](https://kyragunluk.github.io/images/print16.png)
+![](https://kyragunluk.github.io/images/print16.png){: width="100px" }
 
 
 
@@ -41,7 +41,7 @@ title: Photography
 
 
 
-![](https://kyragunluk.github.io/images/print8.png)
+![](https://kyragunluk.github.io/images/print8.png){: width="100px" }
 
 
 
