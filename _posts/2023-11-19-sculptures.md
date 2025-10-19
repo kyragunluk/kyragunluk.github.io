@@ -3,7 +3,7 @@ layout: post
 title: Sculptures
 ---
 <img src="/images/sculp6.png" alt="" style="width:53.75%;">   <img src="/images/sculp4.png" alt="" style="width:36.25%;">  
-<img src="/images/sculp5.png" alt="" style="width:45%;">  <img src="/images/sculp7.jpg" alt="" style="width:45%;">  
+<img src="/images/sculp5.png" alt="" style="width:42%;">  <img src="/images/sculp7.jpg" alt="" style="width:48%;">  
 
 <img src="/images/sculp1.png" alt="" style="width:30%;">  
 
