@@ -15,7 +15,7 @@ I previously studied at Cornell University's College of Engineering, where I gra
 I also have a passion for art; including painting, drawing, sculpting, and photography. You can find some of my work below! My emails are kgunluk3@gatech.edu and kyra.gunluk@gmail.com, and you can find me on [Linkedin here](https://www.linkedin.com/in/kyra-gunluk-097704198/){:target="_blank"}{:rel="noopener noreferrer"}. You can also find more about my teaching and work experiences through my [resume](files/resume.pdf)
 
 ## Research Interests
-I am interested in Theoretical Computer Science and Optimization. I have worked on research in Deterministic Approximation Algorithms and Algorithmic Game Theory, and have enjoyed studying problems in Optimization, Combinatorics, and Aproximation Algorithms.
+I am interested in all things ACO! I have worked on research in Deterministic Approximation Algorithms and Algorithmic Game Theory, and have enjoyed studying problems in Optimization and Combinatorics.
 
 In the past year I have been working on obtaining a Fully Polynomial Approximation Scheme (FPTAS) for the volume of a polytope. Our goal is to design a deterministic algorithm that can compute an epsilon multiplicative approximation of the volume of a polytope $$P = \{x \in [0,1]^n : Ax \leq b\}$$. We have results when we assume entries of the constraint matrix $$A$$ are nonnegative, and we are currently working on eliminating this restriction. You can find more information about our results through our [poster](files/Volume_Poster.pdf).
 
