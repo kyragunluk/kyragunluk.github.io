@@ -4,7 +4,7 @@ title: Photography
 ---
 
 <img src="/images/flames.jpg" alt="" style="width:30%;">
-![](https://kyragunluk.github.io/images/port2.png){: width="100px" }
+<img src="/images/port2.png" alt="" style="width:30%;">
 
 
 
