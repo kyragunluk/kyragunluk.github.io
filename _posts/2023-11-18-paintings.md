@@ -2,7 +2,7 @@
 layout: post
 title: Paintings
 ---
-<img src="/images/paint1.png" alt="" style="width:27.5%;">   <img src="/images/fish_paint.jpg" alt="" style="width:62.5%;">    
+<img src="/images/paint1.png" alt="" style="width:25%;">   <img src="/images/fish_paint.jpg" alt="" style="width:65%;">    
 
 <img src="/images/paint3.jpg" alt="" style="width:34.5%;">   <img src="/images/paint5.jpg" alt="" style="width:29%;">   <img src="/images/paint2.jpg" alt="" style="width:26.5%;">  
 
