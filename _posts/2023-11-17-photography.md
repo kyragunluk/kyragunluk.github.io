@@ -3,7 +3,7 @@ layout: post
 title: Photography
 ---
 
-![](https://kyragunluk.github.io/images/flames.jpg)
+![](https://kyragunluk.github.io/images/flames.jpg){: width="100px" }
 ![](https://kyragunluk.github.io/images/port2.png)
 
 
