@@ -13,16 +13,11 @@ title: Photography
 
 
 
-![](https://kyragunluk.github.io/images/print5.png){: width="100px" }
+<img src="/images/print5.png" alt="" style="width:30%;">
+<img src="/images/print3.png" alt="" style="width:30%;">
 
 
 
-
-
-
-
-
-![](https://kyragunluk.github.io/images/print3.png){: width="100px" }
 
 
 
