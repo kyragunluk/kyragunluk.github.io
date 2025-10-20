@@ -23,6 +23,6 @@ title: Photography
 <img src="/images/rug.jpg" alt="" style="width:30%;">    <img src="/images/turks.JPG" alt="" style="width:30%;">    <img src="/images/rugs.jpg" alt="" style="width:30%;">    
 
 
-<img src="/images/rock.jpg" alt="" style="width:30%;">   <img src="/images/calmwater.JPG" alt="" style="width:30%;">   <img src="/images/tire.jpg" alt="" style="width:30%;">
+<img src="/images/rock.jpg" alt="" style="width:45%;">   <img src="/images/tire.jpg" alt="" style="width:45%;">
 
 
