@@ -14,7 +14,7 @@ title: Paintings
 
   
 
-<img src="/images/paint7.png" alt="" style="width:46%;">   <img src="/images/paint8.jpg" alt="" style="width:44%;"> 
+<img src="/images/paint7.png" alt="" style="width:45.5%;">   <img src="/images/paint8.jpg" alt="" style="width:44.5%;"> 
 
 
 
