@@ -9,12 +9,12 @@ title: Paintings
 
    
 
-<img src="/images/paint6.jpg" alt="" style="width:30%;">   <img src="/images/paint9.jpg" alt="" style="width:30%;">   <img src="/images/paint10.jpg" alt="" style="width:30%;">  
+<img src="/images/paint6.jpg" alt="" style="width:32%;">   <img src="/images/paint9.jpg" alt="" style="width:28%;">   <img src="/images/paint10.jpg" alt="" style="width:30%;">  
 
 
   
 
-<img src="/images/paint7.png" alt="" style="width:45%;">   <img src="/images/paint8.jpg" alt="" style="width:45%;"> 
+<img src="/images/paint7.png" alt="" style="width:46%;">   <img src="/images/paint8.jpg" alt="" style="width:44%;"> 
 
 
 
