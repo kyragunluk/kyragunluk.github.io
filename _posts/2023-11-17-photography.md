@@ -12,8 +12,6 @@ title: Photography
 <img src="/images/rhombus.png" alt="" style="width:35%;">   <img src="/images/pills.png" alt="" style="width:20%;">   <img src="/images/construction.png" alt="" style="width:35%;">
 
 
-<img src="/images/print16.png" alt="" style="width:30%;">
-
 <img src="/images/port4.png" alt="" style="width:45%;">   <img src="/images/port7.png" alt="" style="width:45%;">   
 
 <img src="/images/doors.png" alt="" style="width:35%;">   <img src="/images/ivy.jpg" alt="" style="width:55%;">
