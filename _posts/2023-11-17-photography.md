@@ -16,9 +16,9 @@ title: Photography
 
 <img src="/images/port4.png" alt="" style="width:45%;">   <img src="/images/port7.png" alt="" style="width:45%;">   
 
-<img src="/images/doors.png" alt="" style="width:36%;">   <img src="/images/musician.jpg" alt="" style="width:54%;">
+<img src="/images/doors.png" alt="" style="width:36%;">   <img src="/images/ivy.jpg" alt="" style="width:54%;">
 
-<img src="/images/ivy.jpg" alt="" style="width:22.5%;">   <img src="/images/grate.png" alt="" style="width:22.5%;">   <img src="/images/cypress.jpg" alt="" style="width:22.5%;">
+<img src="/images/grate.png" alt="" style="width:30%;">   <img src="/images/cypress.jpg" alt="" style="width:30%;">    <img src="/images/musician.jpg" alt="" style="width:30%;">   
 
 <img src="/images/rug.jpg" alt="" style="width:30%;">    <img src="/images/turks.JPG" alt="" style="width:30%;">    <img src="/images/rugs.jpg" alt="" style="width:30%;">    
 
