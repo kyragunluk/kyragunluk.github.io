@@ -7,57 +7,14 @@ title: Paintings
 
 <img src="/images/paint3.jpg" alt="" style="width:34.5%;">   <img src="/images/paint5.jpg" alt="" style="width:28.8%;">   <img src="/images/paint2.jpg" alt="" style="width:26.7%;">  
 
+   
+
+<img src="/images/paint6.jpg" alt="" style="width:30%;">   <img src="/images/paint9.jpg" alt="" style="width:30%;">   <img src="/images/paint10.jpg" alt="" style="width:30%;">  
 
 
+  
 
-
-
-![](https://kyragunluk.github.io/images/paint6.jpg)
-
-
-
-
-
-
-
-
-
-
-![](https://kyragunluk.github.io/images/paint7.png)
-
-
-
-
-
-
-
-
-
-
-![](https://kyragunluk.github.io/images/paint8.jpg)
-
-
-
-
-
-
-
-
-
-
-
-![](https://kyragunluk.github.io/images/paint9.jpg)
-
-
-
-
-
-
-
-
-
-
-![](https://kyragunluk.github.io/images/paint10.jpg)
+<img src="/images/paint7.jpg" alt="" style="width:45%;">   <img src="/images/paint7.jpg" alt="" style="width:45%;">   <img src="/images/paint2.jpg" alt="" style="width:45%;">  
 
 
 
