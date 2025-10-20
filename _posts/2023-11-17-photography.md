@@ -23,6 +23,6 @@ title: Photography
 
 <img src="/images/rock.jpg" alt="" style="width:45%;">   <img src="/images/tire.jpg" alt="" style="width:45%;">
 
-<img src="/images/sky.png" alt="" style="width:42%;">   <img src="/images/lamppost.JPG" alt="" style="width:48%;">
+<img src="/images/sky.png" alt="" style="width:48%;">   <img src="/images/lamppost.JPG" alt="" style="width:42%;">
 
 
