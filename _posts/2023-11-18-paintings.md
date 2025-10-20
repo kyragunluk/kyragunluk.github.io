@@ -2,8 +2,8 @@
 layout: post
 title: Paintings
 ---
-<img src="/images/paint1.png" alt="" style="width:24.25%;">   <img src="/images/paint4.jpg" alt="" style="width:65.75%;">   
-<img src="/images/paint5.jpg" alt="" style="width:24.25%;">   <img src="/images/fish_paint.jpg" alt="" style="width:65.75%;">    
+<img src="/images/paint1.png" alt="" style="width:30%;">   <img src="/images/paint4.jpg" alt="" style="width:60%;">   
+<img src="/images/paint5.5.jpg" alt="" style="width:30%;">   <img src="/images/fish_paint.jpg" alt="" style="width:60%;">    
 
 <img src="/images/paint3.jpg" alt="" style="width:34.5%;">   <img src="/images/paint5.jpg" alt="" style="width:28.8%;">   <img src="/images/paint2.jpg" alt="" style="width:26.7%;">  
 
