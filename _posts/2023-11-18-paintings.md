@@ -25,7 +25,7 @@ title: Paintings
 
 <img src="/images/girlpaint.jpg" alt="" style="width:35.95%;">    <img src="/images/paint11.jpg" alt="" style="width:16%;">    <img src="/images/paint12.png" alt="" style="width:17.5%;">    <img src="/images/paint13.png" alt="" style="width:17.55%;">    
 
-<img src="/images/sail.jpg" alt="" style="width:60%;"> <img src="/images/atl.png" alt="" style="width:30%;">    
+<img src="/images/sail.jpg" alt="" style="width:56%;"> <img src="/images/atl.png" alt="" style="width:31%;">    
 
 
 
