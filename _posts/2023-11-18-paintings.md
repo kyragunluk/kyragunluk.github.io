@@ -23,7 +23,7 @@ title: Paintings
 
 
 
-<img src="/images/girlpaint.jpg" alt="" style="width:36.6%;">       <img src="/images/paint11.jpg" alt="" style="width:16.8%;">       <img src="/images/paint12.png" alt="" style="width:18.2%;">       <img src="/images/paint13.png" alt="" style="width:18.2%;">    
+<img src="/images/girlpaint.jpg" alt="" style="width:36.6%;">       <img src="/images/paint11.jpg" alt="" style="width:16.7%;">       <img src="/images/paint12.png" alt="" style="width:18.2%;">       <img src="/images/paint13.png" alt="" style="width:18.2%;">    
 
 <img src="/images/atl.png" alt="" style="width:31.5%;">        <img src="/images/sail.jpg" alt="" style="width:58.5%;">    
 
