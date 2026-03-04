@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Sculptures
+body_class: post-one
 ---
 <img src="/images/sculp6.png" alt="" style="width:53.75%;">   <img src="/images/sculp4.png" alt="" style="width:36.25%;">  
 
