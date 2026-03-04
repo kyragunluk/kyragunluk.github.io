@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Paintings
+body_class: post-two
 ---
 <img src="/images/paint1.png" alt="" style="width:32.5%;">   <img src="/images/paint4.jpg" alt="" style="width:57.5%;">   
 <img src="/images/fish_paint.jpg" alt="" style="width:66.5%;">    <img src="/images/paint5.5.png" alt="" style="width:23.5%;">    
