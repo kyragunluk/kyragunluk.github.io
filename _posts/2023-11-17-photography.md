@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Photography
+body_class: post-three
 ---
 
 <img src="/images/flames.jpg" alt="" style="width:30%;">   <img src="/images/port2.png" alt="" style="width:30%;">   <img src="/images/print5.png" alt="" style="width:30%;">
