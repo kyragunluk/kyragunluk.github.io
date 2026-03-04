@@ -182,6 +182,10 @@ img {
 
 .site-info {
   float: left;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+	
 
   @include mobile {
     float: none;
@@ -192,7 +196,7 @@ img {
 
 .site-name {
   margin: 0;
-  color: $darkGray;
+  color: #315773;
   cursor: pointer;
   font-family: $helveticaNeue;
   font-weight: 300;
@@ -202,8 +206,8 @@ img {
 
 .site-description {
   margin: -5px 0 0 0;
-  color: $gray;
-  font-size: 15px;
+  color: #143852;
+  font-size: 20px;
 
   @include mobile {
     margin: 3px 0;
@@ -243,7 +247,7 @@ nav {
 
 .posts > .post {
   padding-bottom: 2em;
-  border-bottom: 1px solid $lightGray;
+  border-bottom: 3px solid #757cbf;
 }
 
 .posts > .post:last-child {
