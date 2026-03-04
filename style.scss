@@ -289,6 +289,18 @@ footer {
   color: #293487;
 } 
 
+.post-one {
+  background-color: #c3d7e8;
+}
+
+.post-two {
+  background-color: #c3e8e7;
+}
+
+.post-three {
+  background-color: #c3e8db;
+}
+
 // Settled on moving the import of syntax highlighting to the bottom of the CSS
 // ... Otherwise it really bloats up the top of the CSS file and makes it difficult to find the start
 @import "highlights";
