@@ -155,8 +155,11 @@ img {
 }
 
 .masthead {
+  display: flex;
+  align-items: center;   // 🔥 vertical centering
   padding: 30px 0;
-  border-bottom: 1px solid $lightGray;
+  border-bottom: 1px solid #072d4d;
+  gap: 40px;             // space between photo and text
 
   @include mobile {
     text-align: center;
@@ -164,7 +167,6 @@ img {
 }
 
 .site-avatar {
-  float: left;
   width: 200px;
   height: 200px;
   margin-right: 20px;
@@ -181,11 +183,7 @@ img {
 }
 
 .site-info {
-  float: left;
-  display: flex;
-  flex-direction: column;
-  justify-content: center;
-	
+  float: none;
 
   @include mobile {
     float: none;
