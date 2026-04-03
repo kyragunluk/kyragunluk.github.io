@@ -12,7 +12,7 @@ I am a second year PhD student at Georgia Institute of Technology, studying [Alg
 
 I previously studied at Cornell University's College of Engineering, where I graduated Magna Cum Laude in 2024. I recieved a B.S. in Computer Science with minors in Mathematics, Operations Research and Information Engineering (ORIE), and Game Design.
 
-I also have a passion for art; including painting, drawing, sculpting, and photography. You can find some of my work below! My emails are kgunluk3@gatech.edu and kyra.gunluk@gmail.com, and you can find me on [Linkedin here](https://www.linkedin.com/in/kyra-gunluk-097704198/){:target="_blank"}{:rel="noopener noreferrer"}. You can also find more about my teaching and work experiences through my [CV].(files/resume.pdf)
+I also have a passion for art; including painting, drawing, sculpting, and photography. You can find some of my work below! My emails are kgunluk3 at gatech dot edu and kyra.gunluk at gmail dot com, and you can find me on [Linkedin here](https://www.linkedin.com/in/kyra-gunluk-097704198/){:target="_blank"}{:rel="noopener noreferrer"}. You can also find more about my teaching and work experiences through my [CV].(files/resume.pdf)
 
 ## Research Interests
 I am interested in all things ACO! I have worked on research in Deterministic Approximation Algorithms and Algorithmic Game Theory, and have enjoyed studying problems in Combinatorial Optimization.
