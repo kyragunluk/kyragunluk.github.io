@@ -17,7 +17,7 @@ body_class: post-three
 
 <img src="/images/doors.png" alt="" style="width:35%;">   <img src="/images/ivy.jpg" alt="" style="width:55%;">
 
-<img src="/images/grate.png" alt="" style="width:34%;">   <img src="/images/cypress.jpg" alt="" style="width:23%;">    <img src="/images/musician.jpg" alt="" style="width:33%;">   
+<img src="/images/grate.jpg" alt="" style="width:34%;">   <img src="/images/cypress.jpg" alt="" style="width:23%;">    <img src="/images/musician.jpg" alt="" style="width:33%;">   
 
 <img src="/images/rug.jpg" alt="" style="width:30%;">    <img src="/images/turks.JPG" alt="" style="width:30%;">    <img src="/images/rugs.jpg" alt="" style="width:30%;">    
 
