@@ -9,5 +9,5 @@ body_class: post-one
 
  <img src="/images/leaf.png" alt="" style="width:30%;"> <img src="/images/koi.png" alt="" style="width:30%;">  <img src="/images/flower.png" alt="" style="width:30%;">  
 
-<img src="/images/sculp1.png" alt="" style="width:27%;"> <img src="/images/sculp2.png" alt="" style="width:29%;">  <img src="/images/sculp3.png" alt="" style="width:29%;">  
+<img src="/images/sculp1.png" alt="" style="width:27%;"> <img src="/images/sculp2.png" alt="" style="width:31%;">  <img src="/images/sculp3.png" alt="" style="width:31%;">  
 
