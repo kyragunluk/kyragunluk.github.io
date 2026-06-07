@@ -24,7 +24,7 @@ body_class: post-two
 
 
 
-<img src="/images/girlpaint.jpg" alt="" style="width:36.5%;">       <img src="/images/paint11.jpg" alt="" style="width:16.5%;">       <img src="/images/paint12.png" alt="" style="width:18.05%;">       <img src="/images/colorgirl.png" alt="" style="width:18.5%;">    
+<img src="/images/girlpaint.jpg" alt="" style="width:36.45%;">       <img src="/images/paint11.jpg" alt="" style="width:16.45%;">       <img src="/images/paint12.png" alt="" style="width:18%;">       <img src="/images/colorgirl.png" alt="" style="width:18.65%;">    
 
 <img src="/images/atl.png" alt="" style="width:31.5%;">        <img src="/images/sail.jpg" alt="" style="width:58.5%;">    
 
