@@ -10,7 +10,7 @@ body_class: post-three
 
 <img src="/images/spices.png" alt="" style="width:29.9%;">    <img src="/images/colorfruit.png" alt="" style="width:29.9%;">    <img src="/images/fruitstand.png" alt="" style="width:30.1%;">  
 
-<img src="/images/buildings1.png" alt="" style="width:29.9%;">    <img src="/images/rocs2.png" alt="" style="width:29.9%;">    <img src="/images/bluecity3.png" alt="" style="width:30.1%;">  
+<img src="/images/buildings1.png" alt="" style="width:29.9%;">    <img src="/images/roc2.png" alt="" style="width:29.9%;">    <img src="/images/bluecity3.png" alt="" style="width:30.1%;">  
 
 
 <img src="/images/flames.jpg" alt="" style="width:30%;">   <img src="/images/port2.png" alt="" style="width:30%;">   <img src="/images/print5.png" alt="" style="width:30%;">
