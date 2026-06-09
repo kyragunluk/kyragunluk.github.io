@@ -4,7 +4,7 @@ title: Photography
 body_class: post-three
 ---
 
-<img src="/images/cats.png" alt="" style="width:35.2%;">    <img src="/images/fed.png" alt="" style="width:19.7%;">    <img src="/images/construct.png" alt="" style="width:35.1%;">   
+<img src="/images/cats.png" alt="" style="width:35.3%;">    <img src="/images/fed.png" alt="" style="width:19.6%;">    <img src="/images/construct.png" alt="" style="width:35.1%;">   
 
 <img src="/images/flames.jpg" alt="" style="width:30%;">   <img src="/images/port2.png" alt="" style="width:30%;">   <img src="/images/print5.png" alt="" style="width:30%;">
 
