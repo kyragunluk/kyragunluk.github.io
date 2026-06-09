@@ -6,6 +6,8 @@ body_class: post-three
 
 <img src="/images/cats.png" alt="" style="width:35.4%;">    <img src="/images/fed.png" alt="" style="width:19.5%;">    <img src="/images/construct.png" alt="" style="width:35.1%;">   
 
+<img src="/images/roc7.png" alt="" style="width:30%;">    <img src="/images/kapa4.png" alt="" style="width:30%;">    <img src="/images/tannery.png" alt="" style="width:30%;">  
+
 <img src="/images/flames.jpg" alt="" style="width:30%;">   <img src="/images/port2.png" alt="" style="width:30%;">   <img src="/images/print5.png" alt="" style="width:30%;">
 
 <img src="/images/print3.png" alt="" style="width:33%;">   <img src="/images/print8.png" alt="" style="width:30.5%;">   <img src="/images/print10.png" alt="" style="width:26.5%;">
