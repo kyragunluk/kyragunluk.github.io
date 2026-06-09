@@ -4,7 +4,7 @@ title: Photography
 body_class: post-three
 ---
 
-<img src="/images/roc3.png" alt="" style="width:36.5%;">    <img src="/images/roc5.png" alt="" style="width:32%;">    <img src="/images/roc4.png" alt="" style="width:20.5%;">  
+<img src="/images/roc3.png" alt="" style="width:35.5%;">    <img src="/images/roc5.png" alt="" style="width:33%;">    <img src="/images/roc4.png" alt="" style="width:19.5%;">  
 
 
 <img src="/images/flames.jpg" alt="" style="width:30%;">   <img src="/images/port2.png" alt="" style="width:30%;">   <img src="/images/print5.png" alt="" style="width:30%;">
