@@ -12,7 +12,7 @@ body_class: post-three
 
 <img src="/images/panga2.png" alt="" style="width:30%;">    <img src="/images/panga1.png" alt="" style="width:30%;">    <img src="/images/panga3.png" alt="" style="width:30%;">
 
-<img src="/images/intermezzo.png" alt="" style="width:35%;">    <img src="/images/nashville.png" alt="" style="width:20%;">    <img src="/images/kapa2.png" alt="" style="width:35%;">   
+<img src="/images/intermezzo.png" alt="" style="width:35.5%;">    <img src="/images/nashville.png" alt="" style="width:19%;">    <img src="/images/kapa2.png" alt="" style="width:35.5%;">   
 
 <img src="/images/flames.jpg" alt="" style="width:30%;">   <img src="/images/port2.png" alt="" style="width:30%;">   <img src="/images/print5.png" alt="" style="width:30%;">
 
