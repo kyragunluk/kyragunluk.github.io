@@ -10,7 +10,9 @@ body_class: post-three
 
 <img src="/images/surf.png" alt="" style="width:35.2%;">    <img src="/images/footprint.png" alt="" style="width:19.7%;">    <img src="/images/boat1.png" alt="" style="width:35.2%;">   
 
-<img src="/images/panga2.png" alt="" style="width:30%;">    <img src="/images/panga1.png" alt="" style="width:30%;">    <img src="/images/panga3.png" alt="" style="width:30%;">   
+<img src="/images/panga2.png" alt="" style="width:30%;">    <img src="/images/panga1.png" alt="" style="width:30%;">    <img src="/images/panga3.png" alt="" style="width:30%;">
+
+<img src="/images/intermezzo.png" alt="" style="width:30%;">    <img src="/images/nashville.png" alt="" style="width:30%;">    <img src="/images/kapa2.png" alt="" style="width:30%;">   
 
 <img src="/images/flames.jpg" alt="" style="width:30%;">   <img src="/images/port2.png" alt="" style="width:30%;">   <img src="/images/print5.png" alt="" style="width:30%;">
 
