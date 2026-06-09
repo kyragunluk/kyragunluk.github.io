@@ -8,7 +8,7 @@ body_class: post-three
 
 <img src="/images/sunset4.png" alt="" style="width:18.75%;">    <img src="/images/kapa1.png" alt="" style="width:16.15%;">    <img src="/images/sunset3.png" alt="" style="width:18.75%;">    <img src="/images/clouds2.png" alt="" style="width:17.25%;">    <img src="/images/sunset2.png" alt="" style="width:18.75%;">    
 
-<img src="/images/surf.png" alt="" style="width:29.5%;">    <img src="/images/footprints.png" alt="" style="width:29.25%;">    <img src="/images/boat1.png" alt="" style="width:29.25%;">   
+<img src="/images/surf.png" alt="" style="width:29.5%;">    <img src="/images/footprint.png" alt="" style="width:29.25%;">    <img src="/images/boat1.png" alt="" style="width:29.25%;">   
 
 <img src="/images/flames.jpg" alt="" style="width:30%;">   <img src="/images/port2.png" alt="" style="width:30%;">   <img src="/images/print5.png" alt="" style="width:30%;">
 
