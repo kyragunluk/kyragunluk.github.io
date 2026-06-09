@@ -3,8 +3,6 @@ layout: post
 title: Photography
 body_class: post-three
 ---
-  
-<img src="/images/bluecity1.png" alt="" style="width:26.75%;">   <img src="/images/bluecity2.png" alt="" style="width:24.45%;">   <img src="/images/bluecity4.png" alt="" style="width:12.95%;">   <img src="/images/bluecity5.png" alt="" style="width:24.3%;">
 
 <img src="/images/flames.jpg" alt="" style="width:30%;">   <img src="/images/port2.png" alt="" style="width:30%;">   <img src="/images/print5.png" alt="" style="width:30%;">
 
@@ -49,6 +47,9 @@ body_class: post-three
 <img src="/images/spices.png" alt="" style="width:29.9%;">    <img src="/images/colorfruit.png" alt="" style="width:29.9%;">    <img src="/images/fruitstand.png" alt="" style="width:30.1%;">  
 
 <img src="/images/buildings1.png" alt="" style="width:30.4%;">    <img src="/images/roc2.png" alt="" style="width:28.9%;">    <img src="/images/bluecity3.png" alt="" style="width:30.6%;">
+
+
+<img src="/images/bluecity1.png" alt="" style="width:26.75%;">   <img src="/images/bluecity2.png" alt="" style="width:24.45%;">   <img src="/images/bluecity4.png" alt="" style="width:12.95%;">   <img src="/images/bluecity5.png" alt="" style="width:24.3%;">
 
 <img src="/images/rug.jpg" alt="" style="width:30%;">    <img src="/images/turks.JPG" alt="" style="width:30%;">    <img src="/images/rugs.jpg" alt="" style="width:30%;">    
 
