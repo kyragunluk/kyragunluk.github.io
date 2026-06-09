@@ -4,7 +4,7 @@ title: Photography
 body_class: post-three
 ---
   
-<img src="/images/bluecity1.png" alt="" style="width:26.7%;">   <img src="/images/bluecity2.png" alt="" style="width:24.4%;">   <img src="/images/bluecity4.png" alt="" style="width:12.8%;">   <img src="/images/bluecity5.png" alt="" style="width:24.4%;">
+<img src="/images/bluecity1.png" alt="" style="width:26.7%;">   <img src="/images/bluecity2.png" alt="" style="width:24.4%;">   <img src="/images/bluecity4.png" alt="" style="width:12.9%;">   <img src="/images/bluecity5.png" alt="" style="width:24.3%;">
 
 <img src="/images/flames.jpg" alt="" style="width:30%;">   <img src="/images/port2.png" alt="" style="width:30%;">   <img src="/images/print5.png" alt="" style="width:30%;">
 
