@@ -19,11 +19,13 @@ body_class: post-three
 
 <img src="/images/grate.jpg" alt="" style="width:36.75%;">   <img src="/images/cypress.jpg" alt="" style="width:22%;">    <img src="/images/musician.jpg" alt="" style="width:31.25%;">   
 
-<img src="/images/rug.jpg" alt="" style="width:30%;">    <img src="/images/turks.JPG" alt="" style="width:30%;">    <img src="/images/rugs.jpg" alt="" style="width:30%;">    
-
 
 <img src="/images/rock.jpg" alt="" style="width:45%;">   <img src="/images/tire.jpg" alt="" style="width:45%;">
 
 <img src="/images/sky.png" alt="" style="width:47.5%;">   <img src="/images/lamppost.JPG" alt="" style="width:42.5%;">
+
+<img src="/images/trains.png" alt="" style="width:30%;">    <img src="/images/kapa3.png" alt="" style="width:30%;">    <img src="/images/clouds1.png" alt="" style="width:30%;">    
+
+<img src="/images/rug.jpg" alt="" style="width:30%;">    <img src="/images/turks.JPG" alt="" style="width:30%;">    <img src="/images/rugs.jpg" alt="" style="width:30%;">    
 
 
