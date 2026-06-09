@@ -6,6 +6,8 @@ body_class: post-three
 
 <img src="/images/roc3.png" alt="" style="width:36%;">    <img src="/images/roc5.png" alt="" style="width:33.6%;">    <img src="/images/roc4.png" alt="" style="width:20.3%;">  
 
+<img src="/images/roc1.png" alt="" style="width:30%;">    <img src="/images/roc6.png" alt="" style="width:30%;">    <img src="/images/buildings2.png" alt="" style="width:30%;">  
+
 
 <img src="/images/flames.jpg" alt="" style="width:30%;">   <img src="/images/port2.png" alt="" style="width:30%;">   <img src="/images/print5.png" alt="" style="width:30%;">
 
