@@ -3,15 +3,8 @@ layout: post
 title: Photography
 body_class: post-three
 ---
-
-<img src="/images/roc3.png" alt="" style="width:36%;">    <img src="/images/roc5.png" alt="" style="width:33.6%;">    <img src="/images/roc4.png" alt="" style="width:20.3%;">  
-
-<img src="/images/roc1.png" alt="" style="width:32%;">    <img src="/images/roc6.png" alt="" style="width:29%;">    <img src="/images/buildings2.png" alt="" style="width:28.8%;">  
-
-<img src="/images/spices.png" alt="" style="width:29.9%;">    <img src="/images/colorfruit.png" alt="" style="width:29.9%;">    <img src="/images/fruitstand.png" alt="" style="width:30.1%;">  
-
-<img src="/images/buildings1.png" alt="" style="width:30.4%;">    <img src="/images/roc2.png" alt="" style="width:28.9%;">    <img src="/images/bluecity3.png" alt="" style="width:30.6%;">  
-
+  
+<img src="/images/bluecity1.png" alt="" style="width:20%;">   <img src="/images/bluecity2.png" alt="" style="width:20%;">   <img src="/images/bluecity4.png" alt="" style="width:10%;">   <img src="/images/bluecity5.png" alt="" style="width:20%;">
 
 <img src="/images/flames.jpg" alt="" style="width:30%;">   <img src="/images/port2.png" alt="" style="width:30%;">   <img src="/images/print5.png" alt="" style="width:30%;">
 
@@ -48,6 +41,14 @@ body_class: post-three
 <img src="/images/roc7.png" alt="" style="width:28.75%;">    <img src="/images/kapa4.png" alt="" style="width:32.5%;">    <img src="/images/tannery.png" alt="" style="width:28.75%;">  
 
 <img src="/images/roc9.png" alt="" style="width:30%;">    <img src="/images/sahara.png" alt="" style="width:30%;">    <img src="/images/roc8.png" alt="" style="width:30%;">  
+
+<img src="/images/roc3.png" alt="" style="width:36%;">    <img src="/images/roc5.png" alt="" style="width:33.6%;">    <img src="/images/roc4.png" alt="" style="width:20.3%;">  
+
+<img src="/images/roc1.png" alt="" style="width:32%;">    <img src="/images/roc6.png" alt="" style="width:29%;">    <img src="/images/buildings2.png" alt="" style="width:28.8%;">  
+
+<img src="/images/spices.png" alt="" style="width:29.9%;">    <img src="/images/colorfruit.png" alt="" style="width:29.9%;">    <img src="/images/fruitstand.png" alt="" style="width:30.1%;">  
+
+<img src="/images/buildings1.png" alt="" style="width:30.4%;">    <img src="/images/roc2.png" alt="" style="width:28.9%;">    <img src="/images/bluecity3.png" alt="" style="width:30.6%;">
 
 <img src="/images/rug.jpg" alt="" style="width:30%;">    <img src="/images/turks.JPG" alt="" style="width:30%;">    <img src="/images/rugs.jpg" alt="" style="width:30%;">    
 
