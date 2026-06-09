@@ -24,7 +24,7 @@ body_class: post-three
 
 <img src="/images/sky.png" alt="" style="width:47.5%;">   <img src="/images/lamppost.JPG" alt="" style="width:42.5%;">
 
-<img src="/images/trains.png" alt="" style="width:32.5%;">    <img src="/images/kapa3.png" alt="" style="width:28.75%;">    <img src="/images/clouds1.png" alt="" style="width:28.75%;">    
+<img src="/images/trains.png" alt="" style="width:31.5%;">    <img src="/images/kapa3.png" alt="" style="width:29.25%;">    <img src="/images/clouds1.png" alt="" style="width:29.25%;">    
 
 <img src="/images/rug.jpg" alt="" style="width:30%;">    <img src="/images/turks.JPG" alt="" style="width:30%;">    <img src="/images/rugs.jpg" alt="" style="width:30%;">    
 
