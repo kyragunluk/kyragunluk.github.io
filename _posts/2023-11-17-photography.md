@@ -8,7 +8,7 @@ body_class: post-three
 
 <img src="/images/roc1.png" alt="" style="width:32%;">    <img src="/images/roc6.png" alt="" style="width:29%;">    <img src="/images/buildings2.png" alt="" style="width:28.8%;">  
 
-<img src="/images/spices.png" alt="" style="width:30%;">    <img src="/images/fruitstand.png" alt="" style="width:30%;">    <img src="/images/colorfruit.png" alt="" style="width:29.8%;">  
+<img src="/images/spices.png" alt="" style="width:29.9%;">    <img src="/images/fruitstand.png" alt="" style="width:30.1%;">    <img src="/images/colorfruit.png" alt="" style="width:29.9%;">  
 
 
 <img src="/images/flames.jpg" alt="" style="width:30%;">   <img src="/images/port2.png" alt="" style="width:30%;">   <img src="/images/print5.png" alt="" style="width:30%;">
