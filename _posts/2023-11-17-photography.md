@@ -4,11 +4,8 @@ title: Photography
 body_class: post-three
 ---
 
-<img src="/images/cats.png" alt="" style="width:35.4%;">    <img src="/images/fed.png" alt="" style="width:19.5%;">    <img src="/images/construct.png" alt="" style="width:35.1%;">   
+<img src="/images/roc3.png" alt="" style="width:30%;">    <img src="/images/roc5.png" alt="" style="width:30%;">    <img src="/images/roc4.png" alt="" style="width:30%;">  
 
-<img src="/images/roc7.png" alt="" style="width:28.75%;">    <img src="/images/kapa4.png" alt="" style="width:32.5%;">    <img src="/images/tannery.png" alt="" style="width:28.75%;">  
-
-<img src="/images/roc9.png" alt="" style="width:30%;">    <img src="/images/sahara.png" alt="" style="width:30%;">    <img src="/images/roc8.png" alt="" style="width:30%;">  
 
 <img src="/images/flames.jpg" alt="" style="width:30%;">   <img src="/images/port2.png" alt="" style="width:30%;">   <img src="/images/print5.png" alt="" style="width:30%;">
 
@@ -40,6 +37,11 @@ body_class: post-three
 
 <img src="/images/intermezzo.png" alt="" style="width:35.1%;">    <img src="/images/nashville.png" alt="" style="width:19.8%;">    <img src="/images/kapa2.png" alt="" style="width:35.1%;">   
 
+<img src="/images/cats.png" alt="" style="width:35.4%;">    <img src="/images/fed.png" alt="" style="width:19.5%;">    <img src="/images/construct.png" alt="" style="width:35.1%;">   
+
+<img src="/images/roc7.png" alt="" style="width:28.75%;">    <img src="/images/kapa4.png" alt="" style="width:32.5%;">    <img src="/images/tannery.png" alt="" style="width:28.75%;">  
+
+<img src="/images/roc9.png" alt="" style="width:30%;">    <img src="/images/sahara.png" alt="" style="width:30%;">    <img src="/images/roc8.png" alt="" style="width:30%;">  
 
 <img src="/images/rug.jpg" alt="" style="width:30%;">    <img src="/images/turks.JPG" alt="" style="width:30%;">    <img src="/images/rugs.jpg" alt="" style="width:30%;">    
 
