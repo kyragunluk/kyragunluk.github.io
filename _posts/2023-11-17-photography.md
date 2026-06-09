@@ -8,7 +8,7 @@ body_class: post-three
 
 <img src="/images/print3.png" alt="" style="width:33%;">   <img src="/images/print8.png" alt="" style="width:30.5%;">   <img src="/images/print10.png" alt="" style="width:26.5%;">
 
-<img src="/images/print17.png" alt="" style="width:38.75%;">   <img src="/images/print27.png" alt="" style="width:16.75%;">   <img src="/images/city0.png" alt="" style="width:34.5%;"> 
+<img src="/images/print17.png" alt="" style="width:39.25%;">   <img src="/images/print27.png" alt="" style="width:16.25%;">   <img src="/images/city0.png" alt="" style="width:35%;"> 
 
 <img src="/images/rhombus.png" alt="" style="width:35%;">   <img src="/images/pills.png" alt="" style="width:20%;">   <img src="/images/construction.png" alt="" style="width:35%;">
 
