@@ -24,6 +24,10 @@ body_class: post-three
 
 <img src="/images/sky.png" alt="" style="width:47.5%;">   <img src="/images/lamppost.JPG" alt="" style="width:42.5%;">
 
+<img src="/images/roc1.png" alt="" style="width:32%;">    <img src="/images/roc6.png" alt="" style="width:29%;">    <img src="/images/buildings2.png" alt="" style="width:28.8%;">  
+
+<img src="/images/spices.png" alt="" style="width:29.9%;">    <img src="/images/colorfruit.png" alt="" style="width:29.9%;">    <img src="/images/fruitstand.png" alt="" style="width:30.1%;">  
+
 <img src="/images/trains.png" alt="" style="width:31.5%;">    <img src="/images/kapa3.png" alt="" style="width:29.25%;">    <img src="/images/clouds1.png" alt="" style="width:29.25%;">    
 
 <img src="/images/sunset4.png" alt="" style="width:18.75%;">    <img src="/images/kapa1.png" alt="" style="width:16.05%;">    <img src="/images/sunset3.png" alt="" style="width:18.75%;">    <img src="/images/clouds2.png" alt="" style="width:17.25%;">    <img src="/images/sunset2.png" alt="" style="width:18.65%;">    
@@ -41,10 +45,6 @@ body_class: post-three
 <img src="/images/roc9.png" alt="" style="width:30%;">    <img src="/images/sahara.png" alt="" style="width:30%;">    <img src="/images/roc8.png" alt="" style="width:30%;">  
 
 <img src="/images/roc3.png" alt="" style="width:36%;">    <img src="/images/roc5.png" alt="" style="width:33.6%;">    <img src="/images/roc4.png" alt="" style="width:20.3%;">  
-
-<img src="/images/roc1.png" alt="" style="width:32%;">    <img src="/images/roc6.png" alt="" style="width:29%;">    <img src="/images/buildings2.png" alt="" style="width:28.8%;">  
-
-<img src="/images/spices.png" alt="" style="width:29.9%;">    <img src="/images/colorfruit.png" alt="" style="width:29.9%;">    <img src="/images/fruitstand.png" alt="" style="width:30.1%;">  
 
 <img src="/images/buildings1.png" alt="" style="width:30.4%;">    <img src="/images/roc2.png" alt="" style="width:28.9%;">    <img src="/images/bluecity3.png" alt="" style="width:30.6%;">
 
