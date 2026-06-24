@@ -6,7 +6,7 @@ body_class: post-two
 <img src="/images/paint1.png" alt="" style="width:32.5%;">   <img src="/images/paint4.jpg" alt="" style="width:57.5%;">   
 <img src="/images/fish_paint.jpg" alt="" style="width:66.5%;">    <img src="/images/paint5.5.png" alt="" style="width:23.5%;">    
 
-<img src="/images/fruits.png" alt="" style="width:100%;">
+<img src="/images/fruits.png" alt="" style="width:90%;">
 
 <img src="/images/paint3.jpg" alt="" style="width:33%;">   <img src="/images/paint5.jpg" alt="" style="width:27.3%;">   <img src="/images/english.png" alt="" style="width:30.4%;">  
 
@@ -26,7 +26,7 @@ body_class: post-two
 
 
 
-<img src="/images/girlpaint.jpg" alt="" style="width:36.45%;">       <img src="/images/paint11.jpg" alt="" style="width:16.45%;">       <img src="/images/paint12.png" alt="" style="width:18%;">       <img src="/images/colorgirl.png" alt="" style="width:18.65%;">    
+<img src="/images/girlpaint.jpg" alt="" style="width:36.25%;">       <img src="/images/paint11.jpg" alt="" style="width:16.25%;">       <img src="/images/paint12.png" alt="" style="width:17.8%;">       <img src="/images/colorgirl.png" alt="" style="width:18.45%;">    
 
 <img src="/images/atl.png" alt="" style="width:31.5%;">        <img src="/images/sail.jpg" alt="" style="width:58.5%;">    
 
