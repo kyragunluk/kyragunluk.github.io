@@ -8,7 +8,7 @@ body_class: post-two
 
 <img src="/images/fruits.png" alt="" style="width:90%;">
 
-<img src="/images/paint3.jpg" alt="" style="width:33%;">   <img src="/images/paint5.jpg" alt="" style="width:27.3%;">   <img src="/images/english.png" alt="" style="width:30.4%;">  
+<img src="/images/paint3.jpg" alt="" style="width:32.8%;">   <img src="/images/paint5.jpg" alt="" style="width:27.1%;">   <img src="/images/english.png" alt="" style="width:30.2%;">  
 
    
 
