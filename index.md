@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Second year PhD Student in ACO
+title: Kyra Gunluk
 ---
 
 * TOC
