@@ -26,5 +26,5 @@ In the Fall of 2022, I joined a research project with professor Eshan Chattopadh
 I plan to continue exploring research in Theoretical CS, Algorithms, Optimization, and more through pursuing a PhD.
 
 ## Additional Interests
-I also have a passion for art; including painting, drawing, sculpting, and photography. You can find some of my work below! 
-[My Art Portfolio](portfolio.html)
+I also have a passion for art; including painting, drawing, sculpting, and photography. You can find some of my work in my
+[Art Portfolio](portfolio.html)
