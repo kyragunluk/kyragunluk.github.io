@@ -8,7 +8,7 @@ title: Kyra Gunluk
 
 ## About Me
 
-I am a second year PhD student at Georgia Institute of Technology, studying [Algorithms, Combinatorics, and Optimization](https://aco.gatech.edu/){:target="_blank"}{:rel="noopener noreferrer"}. I am particularly interested in Algorithms and Theory in Computer Science, and I am currently exploring research problems in Approximation Algorithms with my advisor [Santosh Vempala](https://faculty.cc.gatech.edu/~vempala/){:target="_blank"}{:rel="noopener noreferrer"}. 
+I am a third year PhD student at Georgia Institute of Technology, studying [Algorithms, Combinatorics, and Optimization](https://aco.gatech.edu/){:target="_blank"}{:rel="noopener noreferrer"}. I am particularly interested in Algorithms and Theory in Computer Science, and I am currently exploring research problems in Approximation Algorithms with my advisor [Santosh Vempala](https://faculty.cc.gatech.edu/~vempala/){:target="_blank"}{:rel="noopener noreferrer"}. 
 
 I previously studied at Cornell University's College of Engineering, where I graduated Magna Cum Laude in 2024. I recieved a B.S. in Computer Science with minors in Mathematics, Operations Research and Information Engineering (ORIE), and Game Design.
 
@@ -17,7 +17,9 @@ My emails are kgunluk3 at gatech dot edu and kyra.gunluk at gmail dot com, and y
 ## Research Interests
 I am interested in all things ACO! I have worked on research in Deterministic Approximation Algorithms and Algorithmic Game Theory, and have enjoyed studying problems in Combinatorial Optimization.
 
-In the past year I have been working on obtaining a Fully Polynomial Time Approximation Scheme (FPTAS) for the volume of a polytope. I designed a deterministic algorithm that can compute an epsilon multiplicative approximation of the volume of a polytope $P = \{x \in [0,1]^n : Ax \leq b\}$. The results hold when we assume entries of the constraint matrix $A$ are nonnegative, as well as when the linear constraints are replaced by a class of convex, monotone, read once constraints. You can find more information about these results through my [poster](files/Volume_Poster.pdf) and my [paper](https://arxiv.org/abs/2605.19809).
+I am currently working on using spectral methods to develop an approximation algorithm for the sparsest cut problem. I am also working on developing bounds for properties of polytopes that relate to Straight Line Complexity (SLC) for Interior Point Methods (IPMs).
+
+Before this I working on obtaining a Fully Polynomial Time Approximation Scheme (FPTAS) for the volume of a polytope. I designed a deterministic algorithm that can compute an epsilon multiplicative approximation of the volume of a polytope $P = \{x \in [0,1]^n : Ax \leq b\}$. The results hold when we assume entries of the constraint matrix $A$ are nonnegative, as well as when the linear constraints are replaced by a class of convex, monotone, read once constraints. You can find more information about these results through my [poster](files/Volume_Poster.pdf) and my [paper](https://arxiv.org/abs/2605.19809).
 
 In the Summer of 2023, I was accepted to the Distributed REU program with the Computing Research Association. I received funding to spend 10 weeks at the University of Illinois Urbana-Champaign and work with Professor Ruta Mehta on research in Algorithmic Game Theory. We worked on the problem of Fair Allocation and explored different measurements of fairness in different problem settings. You can find more information about our results through our [paper](files/ApproximatingMMSandAPS.pdf) and [poster](files/Fairness_Poster.pdf).
 
