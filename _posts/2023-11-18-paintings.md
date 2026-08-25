@@ -6,7 +6,7 @@ body_class: post-two
 <img src="/images/paint1.png" alt="" style="width:32.5%;">   <img src="/images/paint4.jpg" alt="" style="width:57.5%;">   
 <img src="/images/fish_paint.jpg" alt="" style="width:66.5%;">    <img src="/images/paint5.5.png" alt="" style="width:23.5%;">    
 
-<img src="/images/fruit2.png" alt="" style="width:22.5%;"><img src="/images/fruit3.png" alt="" style="width:22.5%;"><img src="/images/fruit4.png" alt="" style="width:22.5%;"><img src="/images/fruit5.png" alt="" style="width:22.5%;">
+<img src="/images/fruit2.png" alt="" style="width:22.5%;"><img src="/images/fruit1.png" alt="" style="width:22.5%;"><img src="/images/fruit4.png" alt="" style="width:22.5%;"><img src="/images/fruit5.png" alt="" style="width:22.5%;">
 
 <img src="/images/paint3.jpg" alt="" style="width:32.8%;">   <img src="/images/paint5.jpg" alt="" style="width:27.1%;">   <img src="/images/english.png" alt="" style="width:30.2%;">  
 
