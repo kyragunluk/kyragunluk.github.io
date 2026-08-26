@@ -17,7 +17,7 @@ My emails are kgunluk3 at gatech dot edu and kyra.gunluk at gmail dot com, and y
 ## Research Interests
 I am interested in all things ACO! I have worked on research in Deterministic Approximation Algorithms and Algorithmic Game Theory, and have enjoyed studying problems in Combinatorial Optimization.
 
-I am currently working on using spectral methods to develop an approximation algorithm for the sparsest cut problem. I am also working with Professor [Bento Natura](https://faculty.cc.gatech.edu/~vempala/){:target="_blank"}{:rel="noopener noreferrer"} on developing bounds for properties of polytopes that relate to Straight Line Complexity (SLC) for Interior Point Methods (IPMs).
+I am currently working on using spectral methods to develop an approximation algorithm for the sparsest cut problem. I am also working with Professor [Bento Natura](https://bentonatura.com/){:target="_blank"}{:rel="noopener noreferrer"} on developing bounds for properties of polytopes that relate to Straight Line Complexity (SLC) for Interior Point Methods (IPMs).
 
 Before this I working on obtaining a Fully Polynomial Time Approximation Scheme (FPTAS) for the volume of a polytope. I designed a deterministic algorithm that can compute an epsilon multiplicative approximation of the volume of a polytope $P = \{x \in [0,1]^n : Ax \leq b\}$. The results hold when we assume entries of the constraint matrix $A$ are nonnegative, as well as when the linear constraints are replaced by a class of convex, monotone, read once constraints. You can find more information about these results through my [poster](files/Volume_Poster.pdf) and my [paper](https://arxiv.org/abs/2605.19809).
 
